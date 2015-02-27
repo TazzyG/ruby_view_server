@@ -20,5 +20,7 @@ pets = ['Taz', 'Sunny', 'Panther', 'Timber', 'Pepper', 'Cocoa', 'Teddy', 'Salty'
 
 	puts "That is #{pets.size} furry friends!"
 
+<% pet = Pets.find(1) %>
+
 
 
